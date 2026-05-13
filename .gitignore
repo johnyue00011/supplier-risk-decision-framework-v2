@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+
+# Data
+data/raw/
+data/intermediate/
+
+# Large outputs
+*.parquet
+*.feather
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
